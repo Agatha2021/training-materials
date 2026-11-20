@@ -1,2 +1,2 @@
 # training-materials
-烟草内训师课程素材库
+JN卷烟厂内训课程素材库
